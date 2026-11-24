@@ -2,19 +2,18 @@
 
 An indie studio building intentional apps for everyday life.
 
-## Tools for coding agents
+## Open-source Mac apps
 
-Created and maintained by [Gus Feliciano](https://github.com/gusfeliciano).
+Small native Mac apps, with the source in the open. All three are early
+previews.
 
-- **[Serel Memory](https://github.com/madeordinary/serel-memory)** keeps project
-  context between sessions, with workflows for setup, planning, review, and
-  memory maintenance. It works with Claude Code and Codex on its own.
-- **[Serel Kit](https://github.com/madeordinary/serel-kit)** adds optional writing
-  polish and manual-verification workflows. Writing works without Memory;
-  verification needs Memory and an initialized bank. Kit does not bundle Memory.
-
-**[Start here](https://github.com/madeordinary/serel-memory#start-here)**
-to set up Memory and Kit together, choose one, or update an existing installation.
-Works for a new idea or an existing project.
+- **[Within](https://github.com/madeordinary/within)**: dictation that
+  transcribes on your Mac. No account, no cloud transcription, and no
+  recording in the background.
+- **[Amid](https://github.com/madeordinary/amid)**: an activity monitor that
+  groups what's running by app, by development project, and by open port. It
+  works offline.
+- **[Winnel](https://github.com/madeordinary/winnel)**: clipboard history and
+  saved stacks. Capture stays off until you turn it on.
 
 [Explore our public projects](https://github.com/orgs/madeordinary/repositories?type=public).
